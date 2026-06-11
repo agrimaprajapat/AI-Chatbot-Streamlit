@@ -2,6 +2,10 @@
 
 A simple chatbot application built using Streamlit and Google's Gemini API.
 
+## Live Demo
+
+https://ai-chatbot-icecream.streamlit.app/
+
 ## Screenshot
 
 ![Application Screenshot](images/screenshot.png)
